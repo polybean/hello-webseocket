@@ -1,0 +1,11 @@
+node_modules/
+.eslintcache
+coverage/
+.nyc_output
+.DS_Store
+*.map
+_site/
+.sass-cache/
+*.iml
+.idea/
+dist/
